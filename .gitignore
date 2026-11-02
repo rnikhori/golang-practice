@@ -1,0 +1,8 @@
+# Compiled Go binaries
+Concurrency/step2
+*.exe
+*.test
+*.out
+
+# macOS
+.DS_Store
